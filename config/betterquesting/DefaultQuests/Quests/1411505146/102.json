@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    658
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "actuallyadditions:block_feeder"
+      },
+      "name:8": "Automatic Feeder"
+    }
+  },
+  "questID:3": 102,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "actuallyadditions:block_feeder"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

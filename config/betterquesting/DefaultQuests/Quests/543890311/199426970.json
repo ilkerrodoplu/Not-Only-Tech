@@ -1,0 +1,34 @@
+{
+  "preRequisites:11": [
+    1318287624,
+    1523744686,
+    1414044761,
+    1504204227,
+    911528941
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "id:8": "refinedstorage:processor"
+      },
+      "name:8": "Raw Advanced Processor"
+    }
+  },
+  "questID:3": 199426970,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "id:8": "refinedstorage:processor"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

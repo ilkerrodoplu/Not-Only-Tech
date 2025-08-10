@@ -1,0 +1,40 @@
+{
+  "preRequisites:11": [
+    198
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "industrialforegoing:meat_feeder",
+        "tag:10": {
+          "Fluid:10": {
+            "Amount:3": 800,
+            "FluidName:8": "meat"
+          }
+        }
+      },
+      "name:8": "Meat Feeder"
+    }
+  },
+  "questID:3": 178,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "industrialforegoing:meat_feeder",
+          "tag:10": {
+            "Fluid:10": {
+              "Amount:3": 800,
+              "FluidName:8": "meat"
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

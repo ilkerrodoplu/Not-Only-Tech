@@ -1,0 +1,47 @@
+{
+  "preRequisites:11": [
+    815760667
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "woot:yahhammer"
+      },
+      "name:8": "Ya Hammer"
+    }
+  },
+  "questID:3": 334400007,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "guideapi:woot-guide",
+          "tag:10": {
+            "G-API_Category:3": 1,
+            "G-API_Category_Page:3": 0,
+            "G-API_Entry:8": "guide.woot.entry.factory.:tiers",
+            "G-API_Entry_Page:3": 1,
+            "G-API_Page:3": 7
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "woot:yahhammer"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

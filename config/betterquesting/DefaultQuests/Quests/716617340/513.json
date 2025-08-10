@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    793,
+    732
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "immersiveengineering:blueprint",
+        "tag:10": {
+          "blueprint:8": "components"
+        }
+      },
+      "name:8": "Crafting Components"
+    }
+  },
+  "questID:3": 513,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "immersiveengineering:blueprint",
+          "tag:10": {
+            "blueprint:8": "components"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

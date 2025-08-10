@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    2033552704,
+    1520986720
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "contenttweaker:redstone_infused_printed_silicon"
+      },
+      "name:8": "Redstone Infused Printed Silicon"
+    }
+  },
+  "questID:3": 2102877067,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "contenttweaker:redstone_infused_printed_silicon"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

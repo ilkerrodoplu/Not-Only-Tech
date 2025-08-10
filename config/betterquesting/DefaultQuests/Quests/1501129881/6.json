@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "frame:8": "GATE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 6,
+        "id:8": "artisanworktables:worktable"
+      },
+      "name:8": "Engineer\u0027s Worktable"
+    }
+  },
+  "questID:3": 6,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "id:8": "artisanworktables:worktable"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

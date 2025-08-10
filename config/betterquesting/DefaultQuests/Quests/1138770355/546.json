@@ -1,0 +1,55 @@
+{
+  "preRequisites:11": [
+    0
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "simplybackpacks:commonbackpack",
+        "tag:10": {
+          "filter:10": {
+            "Items:9": {},
+            "Size:3": 16
+          },
+          "inv:10": {
+            "Items:9": {},
+            "Size:3": 18
+          }
+        }
+      },
+      "name:8": "Common Backpack",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 546,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "ForgeCaps:10": {
+            "Parent:10": {
+              "Filter:9": {},
+              "Inventory:9": {}
+            }
+          },
+          "id:8": "simplybackpacks:commonbackpack",
+          "tag:10": {
+            "filter:10": {
+              "Items:9": {},
+              "Size:3": 16
+            },
+            "inv:10": {
+              "Items:9": {},
+              "Size:3": 18
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

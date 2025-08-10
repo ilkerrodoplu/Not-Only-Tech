@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1589751404,
+    770165333,
+    654307276,
+    1756851426
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "extendedcrafting:table_advanced"
+      },
+      "name:8": "Advanced Crafting Table"
+    }
+  },
+  "questID:3": 911528941,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "extendedcrafting:table_advanced"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

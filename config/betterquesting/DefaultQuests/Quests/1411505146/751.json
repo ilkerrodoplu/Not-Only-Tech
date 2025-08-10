@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    811,
+    796,
+    543,
+    843
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botanicadds:rune_energy"
+      },
+      "name:8": "Rune of Energy"
+    }
+  },
+  "questID:3": 751,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botanicadds:rune_energy"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

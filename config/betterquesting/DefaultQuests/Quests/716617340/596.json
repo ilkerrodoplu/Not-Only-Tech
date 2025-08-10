@@ -1,0 +1,68 @@
+{
+  "preRequisites:11": [
+    527,
+    750,
+    673,
+    61
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 3,
+        "id:8": "immersivepetroleum:metal_multiblock"
+      },
+      "name:8": "Pumpjack"
+    }
+  },
+  "questID:3": 596,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 2,
+          "OreDict:8": "blockSteel",
+          "id:8": "thermalfoundation:storage_alloy"
+        },
+        "1:10": {
+          "Count:3": 2,
+          "Damage:2": 5,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "2:10": {
+          "Count:3": 2,
+          "Damage:2": 4,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "4:10": {
+          "Count:3": 4,
+          "Damage:2": 6,
+          "id:8": "immersiveengineering:metal_device1"
+        },
+        "5:10": {
+          "Count:3": 6,
+          "id:8": "immersiveengineering:wooden_decoration"
+        },
+        "6:10": {
+          "Count:3": 11,
+          "Damage:2": 1,
+          "OreDict:8": "scaffoldingSteel",
+          "id:8": "immersiveengineering:metal_decoration1"
+        },
+        "7:10": {
+          "Count:3": 4,
+          "Damage:2": 8,
+          "id:8": "immersiveengineering:sheetmetal"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

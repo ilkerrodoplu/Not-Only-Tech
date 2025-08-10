@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    824
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "bloodmagic:demon_crucible"
+      },
+      "name:8": "Will Crystal Generator"
+    }
+  },
+  "questID:3": 136,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "bloodmagic:demon_crucible"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "bloodmagic:demon_pylon"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "bloodmagic:demon_crystallizer"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

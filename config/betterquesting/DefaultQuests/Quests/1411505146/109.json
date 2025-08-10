@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    709,
+    27
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botania:spreader"
+      },
+      "name:8": "Mana Spreader"
+    }
+  },
+  "questID:3": 109,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botania:spreader"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

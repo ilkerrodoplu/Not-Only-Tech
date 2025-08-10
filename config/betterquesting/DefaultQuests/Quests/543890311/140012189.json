@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    944954989,
+    933692722
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "id:8": "morerefinedstorage:storagepart"
+      },
+      "name:8": "1B Storage Part"
+    }
+  },
+  "questID:3": 140012189,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "id:8": "morerefinedstorage:storagepart"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

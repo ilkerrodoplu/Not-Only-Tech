@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    474662130,
+    93422146
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "refinedstorage:wireless_grid"
+      },
+      "name:8": "Wireless Grid"
+    }
+  },
+  "questID:3": 1057490352,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "refinedstorage:wireless_grid"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    502,
+    217
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "mekanism:gastank",
+        "tag:10": {
+          "tier:3": 3
+        }
+      },
+      "name:8": "Ultimate Gas Tank",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 779,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "mekanism:gastank",
+          "tag:10": {
+            "tier:3": 3
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

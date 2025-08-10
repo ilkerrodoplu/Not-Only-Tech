@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1857782984
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "astralsorcery:blockworldilluminator"
+      },
+      "name:8": "Cave Illuminator"
+    }
+  },
+  "questID:3": 537550683,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "astralsorcery:blockworldilluminator"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "preRequisites:11": [
+    0
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "randomthings:timeinabottle",
+        "tag:10": {
+          "timeData:10": {
+            "storedTime:3": 880
+          }
+        }
+      },
+      "name:8": "Time in a bottle",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 874,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "randomthings:timeinabottle",
+          "tag:10": {
+            "timeData:10": {
+              "storedTime:3": 880
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

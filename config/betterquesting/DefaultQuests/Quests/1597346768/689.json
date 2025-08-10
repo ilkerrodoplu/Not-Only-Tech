@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    656
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "divinerpg:ancient_entity_statue"
+      },
+      "name:8": "Ancient Entity Statue",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 689,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "divinerpg:ancient_entity_statue"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

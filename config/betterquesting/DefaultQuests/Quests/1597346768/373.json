@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    419
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 14,
+        "id:8": "divinerpg:skythern_block"
+      },
+      "name:8": "Skythern Block",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 373,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 14,
+          "id:8": "divinerpg:skythern_block"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "dimension:3": 424,
+      "index:3": 1,
+      "name:8": "divinerpg:mortum",
+      "taskID:8": "bq_standard:location",
+      "visible:1": 1
+    }
+  }
+}

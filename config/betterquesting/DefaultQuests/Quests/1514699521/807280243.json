@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    943764355
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botanicadds:pool_dreaming"
+      },
+      "name:8": "Dreaming Mana Pool"
+    }
+  },
+  "questID:3": 807280243,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botanicadds:pool_dreaming"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

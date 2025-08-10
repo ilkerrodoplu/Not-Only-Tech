@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    517,
+    675
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 10,
+        "id:8": "botania:rune"
+      },
+      "name:8": "Rune of Gluttony"
+    }
+  },
+  "questID:3": 632,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 10,
+          "id:8": "botania:rune"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

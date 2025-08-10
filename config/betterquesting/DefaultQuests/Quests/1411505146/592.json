@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    614,
+    837
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 3,
+        "id:8": "bloodarsenal:base_item"
+      },
+      "name:8": "Inert Blood-Iron Ingot"
+    }
+  },
+  "questID:3": 592,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "bloodarsenal:base_item"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

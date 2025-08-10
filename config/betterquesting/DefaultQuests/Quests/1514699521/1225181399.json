@@ -1,0 +1,54 @@
+{
+  "preRequisites:11": [
+    207459872
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "astralsorcery:blockaltar"
+      },
+      "name:8": "Starlight Crafting Altar"
+    }
+  },
+  "questID:3": 1225181399,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "astralsorcery:blockaltar"
+        },
+        "1:10": {
+          "Count:3": 8,
+          "Damage:2": 4,
+          "id:8": "astralsorcery:blockmarble"
+        },
+        "2:10": {
+          "Count:3": 8,
+          "Damage:2": 2,
+          "id:8": "astralsorcery:blockmarble"
+        },
+        "3:10": {
+          "Count:3": 24,
+          "Damage:2": 1,
+          "id:8": "astralsorcery:blockmarble"
+        },
+        "4:10": {
+          "Count:3": 28,
+          "Damage:2": 3,
+          "id:8": "astralsorcery:blockmarble"
+        },
+        "5:10": {
+          "Count:3": 21,
+          "id:8": "astralsorcery:blockblackmarble"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

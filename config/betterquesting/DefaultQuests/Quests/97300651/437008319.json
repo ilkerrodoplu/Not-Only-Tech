@@ -1,0 +1,38 @@
+{
+  "preRequisites:11": [
+    1542195774,
+    2110947072,
+    189337662,
+    1550321187,
+    1681723103,
+    473346342,
+    511,
+    514292675,
+    1749375376,
+    164
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "frame:8": "GATE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "contenttweaker:machine_casing_4"
+      },
+      "name:8": "Tier 4 Machine Casing"
+    }
+  },
+  "questID:3": 437008319,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "contenttweaker:machine_casing_4"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    132,
+    595,
+    630
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botania:pylon"
+      },
+      "name:8": "Mana Pylon"
+    }
+  },
+  "questID:3": 1959188268,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botania:pylon"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1137030462,
+    520
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 3,
+        "id:8": "techreborn:solar_panel"
+      },
+      "name:8": "HV Solar Array"
+    }
+  },
+  "questID:3": 1647414676,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "techreborn:solar_panel"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "preRequisites:11": [
+    168
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "modularmachinery:blockcontroller"
+      },
+      "name:8": "Fluid Sieving Machine"
+    }
+  },
+  "questID:3": 1656198093,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "modularmachinery:itemblueprint",
+          "tag:10": {
+            "dynamicmachine:8": "modularmachinery:fluid_sieving_machine"
+          }
+        },
+        "1:10": {
+          "Count:3": 5,
+          "Damage:2": 5,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "id:8": "immersiveengineering:metal_device0"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "modularmachinery:blockcontroller"
+        },
+        "4:10": {
+          "Count:3": 17,
+          "Damage:2": 9,
+          "id:8": "immersiveengineering:sheetmetal"
+        },
+        "5:10": {
+          "Count:3": 1,
+          "id:8": "modularmachinery:blockoutputbus"
+        },
+        "6:10": {
+          "Count:3": 1,
+          "id:8": "modularmachinery:blockfluidinputhatch"
+        },
+        "7:10": {
+          "Count:3": 1,
+          "id:8": "modularmachinery:blockenergyinputhatch"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1057490352
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "refinedstorage:wireless_crafting_monitor"
+      },
+      "name:8": "Wireless Crafting Grid"
+    }
+  },
+  "questID:3": 260771449,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "refinedstorage:wireless_crafting_monitor"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "preRequisites:11": [
+    673,
+    61
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 8,
+        "id:8": "immersiveengineering:metal_multiblock"
+      },
+      "name:8": "Industrial Fermenter"
+    }
+  },
+  "questID:3": 883,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 6,
+          "Damage:2": 1,
+          "OreDict:8": "scaffoldingSteel",
+          "id:8": "immersiveengineering:metal_decoration1"
+        },
+        "1:10": {
+          "Count:3": 2,
+          "Damage:2": 6,
+          "id:8": "immersiveengineering:metal_device1"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "3:10": {
+          "Count:3": 2,
+          "Damage:2": 4,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "4:10": {
+          "Count:3": 4,
+          "id:8": "minecraft:cauldron"
+        },
+        "5:10": {
+          "Count:3": 4,
+          "Damage:2": 9,
+          "id:8": "immersiveengineering:sheetmetal"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

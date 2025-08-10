@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    1492322090
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "forestry:chipsets",
+        "tag:10": {
+          "T:2": 1
+        }
+      },
+      "name:8": "Enhaced Circuit Boars"
+    }
+  },
+  "questID:3": 1072241494,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "forestry:chipsets",
+          "tag:10": {
+            "T:2": 1
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

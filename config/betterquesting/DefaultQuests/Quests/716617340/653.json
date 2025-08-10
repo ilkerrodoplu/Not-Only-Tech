@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    59
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "OreDict:8": "ingotAlubrass",
+        "id:8": "tconstruct:ingots"
+      },
+      "name:8": "Aluminum Brass Ingot"
+    }
+  },
+  "questID:3": 653,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 5,
+          "OreDict:8": "ingotAlubrass",
+          "id:8": "tconstruct:ingots"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

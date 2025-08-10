@@ -1,0 +1,24 @@
+{
+  "preRequisites:11": [
+    400
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:diamond_sword"
+      },
+      "name:8": "Termid",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 683,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "target:8": "divinerpg:termid",
+      "taskID:8": "bq_standard:hunt"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    658484044
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 7,
+        "id:8": "rebornstorage:storagepart"
+      },
+      "name:8": "524M Fluid Storage Part"
+    }
+  },
+  "questID:3": 542446659,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 7,
+          "id:8": "rebornstorage:storagepart"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

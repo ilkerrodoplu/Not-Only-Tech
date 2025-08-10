@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    1005874260
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botanicadds:gaia_plate"
+      },
+      "name:8": "Gaia Agglomeration Plate"
+    }
+  },
+  "questID:3": 2092220980,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botanicadds:gaia_plate"
+        },
+        "1:10": {
+          "Count:3": 4,
+          "id:8": "botanicadds:elven_lapis_block"
+        },
+        "2:10": {
+          "Count:3": 5,
+          "id:8": "botanicadds:dreamrock"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

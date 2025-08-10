@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    31,
+    812
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "integrateddynamics:crystalized_chorus_block"
+      },
+      "name:8": "Block of Crystalized Chorus"
+    }
+  },
+  "questID:3": 900,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "integrateddynamics:crystalized_chorus_block"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

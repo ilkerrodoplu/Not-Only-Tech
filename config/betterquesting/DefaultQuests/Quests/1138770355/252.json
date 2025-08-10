@@ -1,0 +1,38 @@
+{
+  "preRequisites:11": [
+    226,
+    244
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 6,
+        "id:8": "mekanism:basicblock",
+        "tag:10": {
+          "tier:3": 1
+        }
+      },
+      "name:8": "Advanced Bin",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 252,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "id:8": "mekanism:basicblock",
+          "tag:10": {
+            "tier:3": 1
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

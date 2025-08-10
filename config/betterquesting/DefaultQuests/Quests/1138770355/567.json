@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    862
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "furnaceoverhaul:gold_furnace"
+      },
+      "name:8": "Gold Furnace",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 567,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "furnaceoverhaul:gold_furnace"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

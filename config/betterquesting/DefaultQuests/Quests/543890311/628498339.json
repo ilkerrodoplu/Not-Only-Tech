@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1476988392
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "projectred-transmission:wire"
+      },
+      "name:8": "Red Alloy Wire"
+    }
+  },
+  "questID:3": 628498339,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "projectred-transmission:wire"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

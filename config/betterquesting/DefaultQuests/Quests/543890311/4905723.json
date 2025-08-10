@@ -1,0 +1,40 @@
+{
+  "preRequisites:11": [
+    2047986840
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "techreborn:dynamiccell",
+        "tag:10": {
+          "Fluid:10": {
+            "Amount:3": 1000,
+            "FluidName:8": "fluidcarbon"
+          }
+        }
+      },
+      "name:8": "Carbon Cell"
+    }
+  },
+  "questID:3": 4905723,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "techreborn:dynamiccell",
+          "tag:10": {
+            "Fluid:10": {
+              "Amount:3": 1000,
+              "FluidName:8": "fluidcarbon"
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    621
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 12,
+        "id:8": "divinerpg:arcana_portal_frame"
+      },
+      "name:8": "Arcana Portal Frame",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 799,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 12,
+          "id:8": "divinerpg:arcana_portal_frame"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "dimension:3": 426,
+      "index:3": 1,
+      "name:8": "divinerpg:arcana",
+      "taskID:8": "bq_standard:location",
+      "visible:1": 1
+    }
+  }
+}

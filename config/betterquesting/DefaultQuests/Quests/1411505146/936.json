@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    79,
+    943
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "bloodmagic:blood_orb",
+        "tag:10": {
+          "orb:8": "bloodmagic:magician"
+        }
+      },
+      "name:8": "Magician Blood Orb"
+    }
+  },
+  "questID:3": 936,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "bloodmagic:blood_orb",
+          "tag:10": {
+            "orb:8": "bloodmagic:magician"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

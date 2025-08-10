@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    888,
+    941,
+    719,
+    604,
+    44
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "contenttweaker:machine_casing_2"
+      },
+      "name:8": "Tier 2 Machine Casing"
+    }
+  },
+  "questID:3": 32,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "contenttweaker:machine_casing_2"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

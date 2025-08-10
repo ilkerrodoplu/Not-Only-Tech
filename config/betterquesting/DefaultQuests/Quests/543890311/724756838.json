@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    1808212466,
+    1337258507
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "techreborn:quantum_tank"
+      },
+      "name:8": "Quantum Tank"
+    }
+  },
+  "questID:3": 724756838,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "techreborn:quantum_tank"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

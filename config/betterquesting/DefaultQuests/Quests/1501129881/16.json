@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    2,
+    488
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "tconstruct:sign_head",
+        "tag:10": {
+          "Material:8": "bronze"
+        }
+      },
+      "name:8": "Bronze Sign Plate"
+    }
+  },
+  "questID:3": 16,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "tconstruct:sign_head",
+          "tag:10": {
+            "Material:8": "bronze"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

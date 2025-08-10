@@ -1,0 +1,42 @@
+{
+  "preRequisites:11": [
+    969595892
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botania:alfheimportal"
+      },
+      "name:8": "Elven Gateway"
+    }
+  },
+  "questID:3": 1492144120,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 6,
+          "id:8": "botania:livingwood"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "botania:alfheimportal"
+        },
+        "2:10": {
+          "Count:3": 3,
+          "Damage:2": 5,
+          "id:8": "botania:livingwood"
+        },
+        "3:10": {
+          "Count:3": 2,
+          "Damage:2": 1,
+          "id:8": "botania:pylon"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

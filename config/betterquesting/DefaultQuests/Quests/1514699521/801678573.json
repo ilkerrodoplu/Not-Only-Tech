@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1503711797
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "divinerpg:aquatic_pellets"
+      },
+      "name:8": "Aquatic Pellet"
+    }
+  },
+  "questID:3": 801678573,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "divinerpg:aquatic_pellets"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

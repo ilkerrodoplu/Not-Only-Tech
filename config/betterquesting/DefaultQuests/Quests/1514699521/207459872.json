@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    1231722799,
+    1493289699
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "astralsorcery:blockaltar"
+      },
+      "name:8": "Luminous Crafting Table"
+    }
+  },
+  "questID:3": 207459872,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "astralsorcery:blockaltar"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

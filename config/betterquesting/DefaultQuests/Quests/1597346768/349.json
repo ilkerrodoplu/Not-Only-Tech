@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    351
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "twilightforest:meef_stroganoff"
+      },
+      "name:8": "Meef Stroganoff",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 349,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "twilightforest:meef_stroganoff"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

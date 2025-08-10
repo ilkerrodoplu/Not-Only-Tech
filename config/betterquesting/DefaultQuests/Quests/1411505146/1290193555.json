@@ -1,0 +1,90 @@
+{
+  "preRequisites:11": [
+    823
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "modularmachinery:blockcontroller"
+      },
+      "name:8": "Big Runic Altar"
+    }
+  },
+  "questID:3": 1290193555,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "modularmachinery:itemblueprint",
+          "tag:10": {
+            "dynamicmachine:8": "modularmachinery:big_runic_altar"
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "modularmachinery:blockcontroller"
+        },
+        "2:10": {
+          "Count:3": 148,
+          "id:8": "botania:livingrock"
+        },
+        "3:10": {
+          "Count:3": 16,
+          "Damage:2": 3,
+          "id:8": "botania:storage"
+        },
+        "4:10": {
+          "Count:3": 16,
+          "id:8": "botania:storage"
+        },
+        "5:10": {
+          "Count:3": 4,
+          "id:8": "modularmachinery:blockoutputbus"
+        },
+        "6:10": {
+          "Count:3": 4,
+          "id:8": "modularmachinery:blockinputbus"
+        },
+        "7:10": {
+          "Count:3": 12,
+          "id:8": "modularmachinery:blockcasing"
+        },
+        "8:10": {
+          "Count:3": 16,
+          "Damage:2": 2,
+          "id:8": "actuallyadditions:block_misc"
+        },
+        "9:10": {
+          "Count:3": 1,
+          "id:8": "modulardiversity:blockdaylightdetector"
+        },
+        "10:10": {
+          "Count:3": 4,
+          "id:8": "modulardiversity:blockmanainputhatch"
+        },
+        "11:10": {
+          "Count:3": 1,
+          "id:8": "modulardiversity:blockbiomedetector"
+        },
+        "12:10": {
+          "Count:3": 4,
+          "id:8": "modularmachinery:blockenergyinputhatch"
+        },
+        "13:10": {
+          "Count:3": 4,
+          "Damage:2": 2,
+          "id:8": "actuallyadditions:block_crystal_empowered"
+        },
+        "14:10": {
+          "Count:3": 1,
+          "id:8": "modulardiversity:blockweatherdetector"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

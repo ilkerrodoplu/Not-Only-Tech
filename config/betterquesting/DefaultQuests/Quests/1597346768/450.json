@@ -1,0 +1,34 @@
+{
+  "preRequisites:11": [
+    344
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "divinerpg:call_of_the_watcher"
+      },
+      "name:8": "Call of the Watcher",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 450,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "divinerpg:call_of_the_watcher"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "target:8": "divinerpg:the_watcher",
+      "taskID:8": "bq_standard:hunt"
+    }
+  }
+}

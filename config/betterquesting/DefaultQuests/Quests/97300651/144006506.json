@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1038833540
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "woot:factorybase"
+      },
+      "name:8": "Factory Base"
+    }
+  },
+  "questID:3": 144006506,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "woot:factorybase"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

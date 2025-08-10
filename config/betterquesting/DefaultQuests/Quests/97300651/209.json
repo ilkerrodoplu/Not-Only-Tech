@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    702,
+    717
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "rftools:dialing_device"
+      },
+      "name:8": "Dialing Device"
+    }
+  },
+  "questID:3": 209,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rftools:dialing_device"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

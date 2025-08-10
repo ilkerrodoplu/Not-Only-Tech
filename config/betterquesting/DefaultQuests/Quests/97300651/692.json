@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    487
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "industrialforegoing:tinydryrubber"
+      },
+      "name:8": "Tiny Dry Rubber"
+    }
+  },
+  "questID:3": 692,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "industrialforegoing:tinydryrubber"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

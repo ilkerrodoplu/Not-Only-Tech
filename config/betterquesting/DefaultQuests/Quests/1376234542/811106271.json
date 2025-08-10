@@ -1,0 +1,43 @@
+{
+  "preRequisites:11": [
+    625,
+    500575763
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 3,
+        "id:8": "mekanism:basicblock2",
+        "tag:10": {
+          "mekData:10": {
+            "energyStored:6": 0.0
+          },
+          "tier:3": 3
+        }
+      },
+      "name:8": "Ultimate Induction Cell"
+    }
+  },
+  "questID:3": 811106271,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "mekanism:basicblock2",
+          "tag:10": {
+            "mekData:10": {
+              "energyStored:6": 0.0
+            },
+            "tier:3": 3
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

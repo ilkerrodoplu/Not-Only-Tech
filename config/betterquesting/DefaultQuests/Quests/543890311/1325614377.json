@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1182482467,
+    1665012533
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 4,
+        "id:8": "refinedstorage:processor"
+      },
+      "name:8": "Improved Processor"
+    }
+  },
+  "questID:3": 1325614377,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 4,
+          "id:8": "refinedstorage:processor"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    243
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "buildinggadgets:copypastetool",
+        "tag:10": {
+          "mode:8": "Copy"
+        }
+      },
+      "name:8": "Copy-Paste Gadget",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 272,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "buildinggadgets:copypastetool",
+          "tag:10": {
+            "mode:8": "Copy"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

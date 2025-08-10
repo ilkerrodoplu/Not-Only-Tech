@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    312
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "immersiveengineering:metal_decoration0"
+      },
+      "name:8": "Electrum Coil Block",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 496,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "immersiveengineering:metal_decoration0"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

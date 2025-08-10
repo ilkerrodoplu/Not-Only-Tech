@@ -1,0 +1,39 @@
+{
+  "preRequisites:11": [
+    801670272,
+    1128762517
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "techreborn:industrial_blast_furnace",
+        "tag:10": {}
+      },
+      "name:8": "Industrial Blast Furnace"
+    }
+  },
+  "questID:3": 304422934,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "techreborn:industrial_blast_furnace",
+          "tag:10": {}
+        },
+        "1:10": {
+          "Count:3": 34,
+          "id:8": "techreborn:machine_casing"
+        },
+        "2:10": {
+          "Count:3": 2,
+          "id:8": "minecraft:lava_bucket"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

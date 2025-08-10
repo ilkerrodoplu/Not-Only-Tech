@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    133,
+    518,
+    79
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 28,
+        "id:8": "bloodmagic:blood_rune"
+      },
+      "name:8": "Tier 2 Blood Altar"
+    }
+  },
+  "questID:3": 943,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 28,
+          "id:8": "bloodmagic:blood_rune"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

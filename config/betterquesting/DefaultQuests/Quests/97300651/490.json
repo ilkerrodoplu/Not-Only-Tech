@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    165
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "stevescarts:blockdistributor"
+      },
+      "name:8": "External Distributor"
+    }
+  },
+  "questID:3": 490,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "stevescarts:blockdistributor"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    557
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "compactmachines3:fieldprojector"
+      },
+      "name:8": "Miniaturization Field Projector"
+    }
+  },
+  "questID:3": 499,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "compactmachines3:fieldprojector"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

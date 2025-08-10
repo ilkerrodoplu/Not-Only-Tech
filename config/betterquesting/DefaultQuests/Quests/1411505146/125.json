@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    105,
+    607
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "actuallyadditions:item_crystal_empowered"
+      },
+      "name:8": "Empowered Restonia Crystal"
+    }
+  },
+  "questID:3": 125,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "actuallyadditions:item_crystal_empowered"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

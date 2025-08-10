@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    211
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "mekanism:basicblock2"
+      },
+      "name:8": "Induction Matrix"
+    }
+  },
+  "questID:3": 637550293,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 32,
+          "Damage:2": 1,
+          "id:8": "mekanism:basicblock2"
+        },
+        "1:10": {
+          "Count:3": 2,
+          "Damage:2": 2,
+          "id:8": "mekanism:basicblock2"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "preRequisites:11": [
+    61
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "immersiveengineering:metal_multiblock"
+      },
+      "name:8": "Metal Press"
+    }
+  },
+  "questID:3": 55,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 2,
+          "Damage:2": 1,
+          "OreDict:8": "scaffoldingSteel",
+          "id:8": "immersiveengineering:metal_decoration1"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:piston"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "3:10": {
+          "Count:3": 2,
+          "id:8": "immersiveengineering:conveyor",
+          "tag:10": {
+            "conveyorType:8": "immersiveengineering:conveyor"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

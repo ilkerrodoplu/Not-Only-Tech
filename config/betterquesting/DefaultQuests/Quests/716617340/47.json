@@ -1,0 +1,60 @@
+{
+  "preRequisites:11": [
+    673,
+    61
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 7,
+        "id:8": "immersiveengineering:metal_multiblock"
+      },
+      "name:8": "Industrial Squeezer"
+    }
+  },
+  "questID:3": 47,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 6,
+          "Damage:2": 1,
+          "OreDict:8": "scaffoldingSteel",
+          "id:8": "immersiveengineering:metal_decoration1"
+        },
+        "1:10": {
+          "Count:3": 3,
+          "id:8": "immersiveengineering:metal_decoration1"
+        },
+        "2:10": {
+          "Count:3": 2,
+          "Damage:2": 4,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "4:10": {
+          "Count:3": 2,
+          "Damage:2": 6,
+          "id:8": "immersiveengineering:metal_device1"
+        },
+        "5:10": {
+          "Count:3": 4,
+          "Damage:2": 1,
+          "id:8": "immersiveengineering:wooden_device0"
+        },
+        "6:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:piston"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

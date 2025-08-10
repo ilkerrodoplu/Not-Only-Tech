@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    1,
+    19,
+    16,
+    582,
+    6
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "frame:8": "GATE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "contenttweaker:machine_casing_1"
+      },
+      "name:8": "Tier 1 Machine Casing"
+    }
+  },
+  "questID:3": 888,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "contenttweaker:machine_casing_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

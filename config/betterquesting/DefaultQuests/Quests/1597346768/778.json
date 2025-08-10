@@ -1,0 +1,61 @@
+{
+  "preRequisites:11": [
+    338
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "twilightforest:mazebreaker_pickaxe",
+        "tag:10": {
+          "ench:9": {
+            "0:10": {
+              "id:3": 32,
+              "lvl:2": 4
+            },
+            "1:10": {
+              "id:3": 34,
+              "lvl:2": 3
+            },
+            "2:10": {
+              "id:3": 35,
+              "lvl:2": 2
+            }
+          }
+        }
+      },
+      "name:8": "Mazebreaker",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 778,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "twilightforest:mazebreaker_pickaxe",
+          "tag:10": {
+            "ench:9": {
+              "0:10": {
+                "id:3": 32,
+                "lvl:2": 4
+              },
+              "1:10": {
+                "id:3": 34,
+                "lvl:2": 3
+              },
+              "2:10": {
+                "id:3": 35,
+                "lvl:2": 2
+              }
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

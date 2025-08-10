@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    2134996754
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "astralsorcery:blockattunementrelay"
+      },
+      "name:8": "Spectral Relay"
+    }
+  },
+  "questID:3": 1404093620,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "astralsorcery:blockattunementrelay"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

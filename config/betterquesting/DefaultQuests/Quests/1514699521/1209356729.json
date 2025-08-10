@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1492144120
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botanicadds:elvenwood_log"
+      },
+      "name:8": "Elvenwood Log"
+    }
+  },
+  "questID:3": 1209356729,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botanicadds:elvenwood_log"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

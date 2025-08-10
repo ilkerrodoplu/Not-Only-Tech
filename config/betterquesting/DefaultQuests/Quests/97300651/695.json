@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    180
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "industrialforegoing:black_hole_unit"
+      },
+      "name:8": "Black Hole Unit"
+    }
+  },
+  "questID:3": 695,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "industrialforegoing:black_hole_unit"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

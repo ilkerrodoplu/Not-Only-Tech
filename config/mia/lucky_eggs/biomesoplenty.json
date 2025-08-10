@@ -1,0 +1,70 @@
+{
+  "modCanAutomaticallyReplaceConfig": true,
+  "configVersion": 0,
+  "loot": [
+    {
+      "itemID": "biomesoplenty:gem",
+      "metaID": 0,
+      "weight": 1,
+      "minQty": 1,
+      "maxQty": 1,
+      "field_76292_a": 1
+    },
+    {
+      "itemID": "biomesoplenty:gem",
+      "metaID": 1,
+      "weight": 1,
+      "minQty": 1,
+      "maxQty": 1,
+      "field_76292_a": 1
+    },
+    {
+      "itemID": "biomesoplenty:gem",
+      "metaID": 2,
+      "weight": 1,
+      "minQty": 1,
+      "maxQty": 1,
+      "field_76292_a": 1
+    },
+    {
+      "itemID": "biomesoplenty:gem",
+      "metaID": 3,
+      "weight": 1,
+      "minQty": 1,
+      "maxQty": 1,
+      "field_76292_a": 1
+    },
+    {
+      "itemID": "biomesoplenty:gem",
+      "metaID": 4,
+      "weight": 1,
+      "minQty": 1,
+      "maxQty": 1,
+      "field_76292_a": 1
+    },
+    {
+      "itemID": "biomesoplenty:gem",
+      "metaID": 5,
+      "weight": 1,
+      "minQty": 1,
+      "maxQty": 1,
+      "field_76292_a": 1
+    },
+    {
+      "itemID": "biomesoplenty:gem",
+      "metaID": 6,
+      "weight": 1,
+      "minQty": 1,
+      "maxQty": 1,
+      "field_76292_a": 1
+    },
+    {
+      "itemID": "biomesoplenty:gem",
+      "metaID": 7,
+      "weight": 1,
+      "minQty": 1,
+      "maxQty": 1,
+      "field_76292_a": 1
+    }
+  ]
+}

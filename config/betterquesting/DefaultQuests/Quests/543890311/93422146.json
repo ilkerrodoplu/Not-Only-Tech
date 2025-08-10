@@ -1,0 +1,34 @@
+{
+  "preRequisites:11": [
+    170802358
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "refinedstorage:controller",
+        "tag:10": {
+          "Energy:3": 0
+        }
+      },
+      "name:8": "Controller"
+    }
+  },
+  "questID:3": 93422146,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "refinedstorage:controller",
+          "tag:10": {
+            "Energy:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

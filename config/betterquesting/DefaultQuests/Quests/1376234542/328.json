@@ -1,0 +1,39 @@
+{
+  "preRequisites:11": [
+    568
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "actuallyadditions:block_heat_collector"
+      },
+      "name:8": "Heat Collector",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 328,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "actuallyadditions:block_heat_collector"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredFluids:9": {
+        "0:10": {
+          "Amount:3": 4000,
+          "FluidName:8": "lava"
+        }
+      },
+      "taskID:8": "bq_standard:fluid"
+    }
+  }
+}

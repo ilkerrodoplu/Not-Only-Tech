@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    936,
+    615
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "bloodmagic:blood_orb",
+        "tag:10": {
+          "orb:8": "bloodmagic:master"
+        }
+      },
+      "name:8": "Master Blood Orb"
+    }
+  },
+  "questID:3": 86,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "bloodmagic:blood_orb",
+          "tag:10": {
+            "orb:8": "bloodmagic:master"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "preRequisites:11": [
+    595
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:compass"
+      },
+      "name:8": "Twilight Forest",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 697,
+  "tasks:9": {
+    "0:10": {
+      "dimension:3": 7,
+      "index:3": 0,
+      "name:8": "Twilight Forest",
+      "taskID:8": "bq_standard:location",
+      "visible:1": 1
+    }
+  }
+}

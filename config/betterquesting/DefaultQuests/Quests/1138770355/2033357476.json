@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1465614997
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "torchmaster:frozen_pearl"
+      },
+      "name:8": "Frozen Pearl"
+    }
+  },
+  "questID:3": 2033357476,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "torchmaster:frozen_pearl"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

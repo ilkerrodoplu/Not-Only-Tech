@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    697
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "twilightforest:moonworm_queen"
+      },
+      "name:8": "Moonworm Queen",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 385,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "twilightforest:moonworm_queen"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

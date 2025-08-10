@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    226,
+    902
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "mekanism:gastank",
+        "tag:10": {
+          "tier:3": 1
+        }
+      },
+      "name:8": "Advanced Gas Tank",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 553,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "mekanism:gastank",
+          "tag:10": {
+            "tier:3": 1
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

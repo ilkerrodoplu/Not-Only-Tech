@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    314,
+    252374053
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "solarflux:solar_panel_2"
+      },
+      "name:8": "Solar Panel II",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 624,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "solarflux:solar_panel_2"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

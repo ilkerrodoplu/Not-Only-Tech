@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    665
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "refinedstorage:quartz_enriched_iron"
+      },
+      "name:8": "Quartz Enriched Iron"
+    }
+  },
+  "questID:3": 1414044761,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "refinedstorage:quartz_enriched_iron"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

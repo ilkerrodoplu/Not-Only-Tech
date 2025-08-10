@@ -1,0 +1,58 @@
+{
+  "preRequisites:11": [
+    1225181399
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 3,
+        "id:8": "astralsorcery:blockaltar"
+      },
+      "name:8": "Iridescent Altar"
+    }
+  },
+  "questID:3": 1422139321,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "astralsorcery:blockaltar"
+        },
+        "1:10": {
+          "Count:3": 12,
+          "id:8": "astralsorcery:blockmarble"
+        },
+        "2:10": {
+          "Count:3": 68,
+          "Damage:2": 1,
+          "id:8": "astralsorcery:blockmarble"
+        },
+        "3:10": {
+          "Count:3": 8,
+          "Damage:2": 2,
+          "id:8": "astralsorcery:blockmarble"
+        },
+        "4:10": {
+          "Count:3": 4,
+          "Damage:2": 4,
+          "id:8": "astralsorcery:blockmarble"
+        },
+        "5:10": {
+          "Count:3": 4,
+          "Damage:2": 6,
+          "id:8": "astralsorcery:blockmarble"
+        },
+        "6:10": {
+          "Count:3": 49,
+          "id:8": "astralsorcery:blockblackmarble"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    412
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "twilightforest:giant_obsidian"
+      },
+      "name:8": "Giant Obsidian",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 347,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "twilightforest:giant_obsidian"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    249
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "stonechest:chest_andesite"
+      },
+      "name:8": "Andesite Chest",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 619,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "stonechest:chest_andesite"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

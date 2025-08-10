@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    231
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "mekanism:reinforcedalloy"
+      },
+      "name:8": "Reinforced Alloy"
+    }
+  },
+  "questID:3": 229,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "mekanism:reinforcedalloy"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

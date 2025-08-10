@@ -1,0 +1,31 @@
+item.contenttweaker.redstone_infused_printed_silicon.name=Redstone Infused Printed Silicon
+item.contenttweaker.electrotine_infused_printed_silicon.name=Electrotine Infused Printed Silicon
+item.contenttweaker.glowstone_infused_printed_silicon.name=Glowstone Infused Printed Silicon
+
+item.contenttweaker.blank_rune.name=Blank Rune
+item.contenttweaker.aristotles_rune.name=Aristotle's Elements Rune
+item.contenttweaker.season_rune.name=Season Rune
+item.contenttweaker.redstone_wire.name=Redstone Wire
+item.contenttweaker.blank_module.name=Blank Module
+
+fluid.glue_natural=Natural Glue
+fluid.egg_mixture=Egg Mixture
+
+tile.contenttweaker.machine_casing_1.name=Tier 1 Machine Casing
+tile.contenttweaker.machine_casing_2.name=Tier 2 Machine Casing
+tile.contenttweaker.machine_casing_3.name=Tier 3 Machine Casing
+tile.contenttweaker.machine_casing_4.name=Tier 4 Machine Casing
+
+tile.contenttweaker.redstone_coil_block.name=Redstone Coil Block
+tile.contenttweaker.hemp_rope_coil_block.name=Hemp Rope Coil Block
+tile.contenttweaker.aluminum_coil_block.name=Aluminum Coil Block
+
+tile.contenttweaker.compact_hull_0.name=Compact Hull 0
+tile.contenttweaker.compact_hull_1.name=Compact Hull 1
+tile.contenttweaker.compact_hull_2.name=Compact Hull 2
+tile.contenttweaker.compact_hull_3.name=Compact Hull 3
+tile.contenttweaker.compact_hull_4.name=Compact Hull 4
+tile.contenttweaker.compact_hull_5.name=Compact Hull 5
+
+tile.contenttweaker.detector_case.name=Detector Case
+tile.contenttweaker.train_case.name=Train Case

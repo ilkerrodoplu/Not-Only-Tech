@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    12,
+    734,
+    925
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "immersiveengineering:wooden_device0"
+      },
+      "name:8": "Wooden Storage Crate"
+    }
+  },
+  "questID:3": 1227316644,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "immersiveengineering:wooden_device0"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

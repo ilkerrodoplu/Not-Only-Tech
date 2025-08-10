@@ -1,0 +1,46 @@
+{
+  "preRequisites:11": [
+    888
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "tconstruct:smeltery_controller"
+      },
+      "name:8": "Tinker\u0027s Smeltery "
+    }
+  },
+  "questID:3": 36,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "tconstruct:smeltery_controller"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "tconstruct:smeltery_io"
+        },
+        "2:10": {
+          "Count:3": 18,
+          "Damage:2": 3,
+          "OreDict:8": "blockSeared",
+          "id:8": "tconstruct:seared"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "tconstruct:seared_tank"
+        },
+        "4:10": {
+          "Count:3": 2,
+          "id:8": "tconstruct:faucet"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

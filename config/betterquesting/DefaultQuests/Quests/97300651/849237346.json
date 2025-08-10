@@ -1,0 +1,65 @@
+{
+  "preRequisites:11": [
+    293174232,
+    1928519754
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 8,
+        "id:8": "woot:structure"
+      },
+      "name:8": "Tier 3 Woot Farm"
+    }
+  },
+  "questID:3": 849237346,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 4,
+          "Damage:2": 5,
+          "id:8": "woot:structure"
+        },
+        "1:10": {
+          "Count:3": 2,
+          "Damage:2": 6,
+          "id:8": "woot:structure"
+        },
+        "2:10": {
+          "Count:3": 14,
+          "Damage:2": 1,
+          "id:8": "woot:structure"
+        },
+        "3:10": {
+          "Count:3": 10,
+          "id:8": "woot:structure"
+        },
+        "4:10": {
+          "Count:3": 4,
+          "Damage:2": 7,
+          "id:8": "woot:structure"
+        },
+        "5:10": {
+          "Count:3": 35,
+          "Damage:2": 2,
+          "id:8": "woot:structure"
+        },
+        "6:10": {
+          "Count:3": 5,
+          "Damage:2": 8,
+          "id:8": "woot:structure"
+        },
+        "7:10": {
+          "Count:3": 60,
+          "Damage:2": 3,
+          "id:8": "woot:structure"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

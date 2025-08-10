@@ -1,0 +1,65 @@
+{
+  "preRequisites:11": [
+    528,
+    527,
+    750,
+    673,
+    61
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 11,
+        "id:8": "immersiveengineering:metal_multiblock"
+      },
+      "name:8": "Excavator"
+    }
+  },
+  "questID:3": 46,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 3,
+          "Damage:2": 7,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "1:10": {
+          "Count:3": 5,
+          "Damage:2": 5,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "2:10": {
+          "Count:3": 9,
+          "Damage:2": 4,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "immersiveengineering:metal_decoration0"
+        },
+        "4:10": {
+          "Count:3": 15,
+          "Damage:2": 8,
+          "id:8": "immersiveengineering:sheetmetal"
+        },
+        "5:10": {
+          "Count:3": 26,
+          "Damage:2": 1,
+          "OreDict:8": "scaffoldingSteel",
+          "id:8": "immersiveengineering:metal_decoration1"
+        },
+        "6:10": {
+          "Count:3": 9,
+          "OreDict:8": "blockSteel",
+          "id:8": "thermalfoundation:storage_alloy"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

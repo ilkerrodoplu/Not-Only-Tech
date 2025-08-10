@@ -1,0 +1,49 @@
+{
+  "preRequisites:11": [
+    546
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "simplybackpacks:uncommonbackpack",
+        "tag:10": {
+          "filter:10": {
+            "Items:9": {},
+            "Size:3": 16
+          },
+          "inv:10": {
+            "Items:9": {},
+            "Size:3": 33
+          }
+        }
+      },
+      "name:8": "Uncommon Backpack",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 245,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "simplybackpacks:uncommonbackpack",
+          "tag:10": {
+            "filter:10": {
+              "Items:9": {},
+              "Size:3": 16
+            },
+            "inv:10": {
+              "Items:9": {},
+              "Size:3": 33
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

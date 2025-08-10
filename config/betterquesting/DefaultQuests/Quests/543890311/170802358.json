@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    1128762517,
+    1414044761,
+    1440505055
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "refinedstorage:machine_casing"
+      },
+      "name:8": "Machine Casing"
+    }
+  },
+  "questID:3": 170802358,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "refinedstorage:machine_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

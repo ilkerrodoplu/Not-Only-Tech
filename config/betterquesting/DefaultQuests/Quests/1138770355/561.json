@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    0
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "lootbags:loot_opener"
+      },
+      "name:8": "Bag Opener",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 561,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "lootbags:loot_opener"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

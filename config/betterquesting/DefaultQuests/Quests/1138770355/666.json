@@ -1,0 +1,161 @@
+{
+  "preRequisites:11": [
+    250
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "draconicevolution:draconium_chest",
+        "tag:10": {
+          "BCTileData:10": {
+            "BCManagedData:10": {
+              "autoSmeltMode:1": 0,
+              "burnRate:6": 0.0,
+              "colour:3": 6553750,
+              "furnaceOutputBlocked:1": 0,
+              "isSmelting:1": 0,
+              "smeltEnergyPerTick:3": 256,
+              "smeltProgress:6": 0.0,
+              "smeltTime:1": 100
+            },
+            "RegionData:10": {
+              "SR_0_Enabled:1": 0,
+              "SR_0_Invalid:1": 0,
+              "SR_0_dufIO:1": -1,
+              "SR_0_nsweIO:1": -1,
+              "SR_0_xPos:1": 0,
+              "SR_0_xSize:1": 0,
+              "SR_0_yPos:1": 0,
+              "SR_0_ySize:1": 0,
+              "SR_1_Enabled:1": 0,
+              "SR_1_Invalid:1": 0,
+              "SR_1_dufIO:1": -1,
+              "SR_1_nsweIO:1": -1,
+              "SR_1_xPos:1": 0,
+              "SR_1_xSize:1": 0,
+              "SR_1_yPos:1": 0,
+              "SR_1_ySize:1": 0,
+              "SR_2_Enabled:1": 0,
+              "SR_2_Invalid:1": 0,
+              "SR_2_dufIO:1": -1,
+              "SR_2_nsweIO:1": -1,
+              "SR_2_xPos:1": 0,
+              "SR_2_xSize:1": 0,
+              "SR_2_yPos:1": 0,
+              "SR_2_ySize:1": 0,
+              "SR_3_Enabled:1": 0,
+              "SR_3_Invalid:1": 0,
+              "SR_3_dufIO:1": -1,
+              "SR_3_nsweIO:1": -1,
+              "SR_3_xPos:1": 0,
+              "SR_3_xSize:1": 0,
+              "SR_3_yPos:1": 0,
+              "SR_3_ySize:1": 0,
+              "SR_4_Enabled:1": 0,
+              "SR_4_Invalid:1": 0,
+              "SR_4_dufIO:1": -1,
+              "SR_4_nsweIO:1": -1,
+              "SR_4_xPos:1": 0,
+              "SR_4_xSize:1": 0,
+              "SR_4_yPos:1": 0,
+              "SR_4_ySize:1": 0,
+              "SR_5_Enabled:1": 0,
+              "SR_5_Invalid:1": 0,
+              "SR_5_dufIO:1": -1,
+              "SR_5_nsweIO:1": -1,
+              "SR_5_xPos:1": 0,
+              "SR_5_xSize:1": 0,
+              "SR_5_yPos:1": 0,
+              "SR_5_ySize:1": 0,
+              "SR_6_dufIO:1": -1,
+              "SR_6_nsweIO:1": -1
+            }
+          }
+        }
+      },
+      "name:8": "Draconium Chest",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 666,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "draconicevolution:draconium_chest",
+          "tag:10": {
+            "BCTileData:10": {
+              "BCManagedData:10": {
+                "autoSmeltMode:1": 0,
+                "burnRate:6": 0.0,
+                "colour:3": 6553750,
+                "furnaceOutputBlocked:1": 0,
+                "isSmelting:1": 0,
+                "smeltEnergyPerTick:3": 256,
+                "smeltProgress:6": 0.0,
+                "smeltTime:1": 100
+              },
+              "RegionData:10": {
+                "SR_0_Enabled:1": 0,
+                "SR_0_Invalid:1": 0,
+                "SR_0_dufIO:1": -1,
+                "SR_0_nsweIO:1": -1,
+                "SR_0_xPos:1": 0,
+                "SR_0_xSize:1": 0,
+                "SR_0_yPos:1": 0,
+                "SR_0_ySize:1": 0,
+                "SR_1_Enabled:1": 0,
+                "SR_1_Invalid:1": 0,
+                "SR_1_dufIO:1": -1,
+                "SR_1_nsweIO:1": -1,
+                "SR_1_xPos:1": 0,
+                "SR_1_xSize:1": 0,
+                "SR_1_yPos:1": 0,
+                "SR_1_ySize:1": 0,
+                "SR_2_Enabled:1": 0,
+                "SR_2_Invalid:1": 0,
+                "SR_2_dufIO:1": -1,
+                "SR_2_nsweIO:1": -1,
+                "SR_2_xPos:1": 0,
+                "SR_2_xSize:1": 0,
+                "SR_2_yPos:1": 0,
+                "SR_2_ySize:1": 0,
+                "SR_3_Enabled:1": 0,
+                "SR_3_Invalid:1": 0,
+                "SR_3_dufIO:1": -1,
+                "SR_3_nsweIO:1": -1,
+                "SR_3_xPos:1": 0,
+                "SR_3_xSize:1": 0,
+                "SR_3_yPos:1": 0,
+                "SR_3_ySize:1": 0,
+                "SR_4_Enabled:1": 0,
+                "SR_4_Invalid:1": 0,
+                "SR_4_dufIO:1": -1,
+                "SR_4_nsweIO:1": -1,
+                "SR_4_xPos:1": 0,
+                "SR_4_xSize:1": 0,
+                "SR_4_yPos:1": 0,
+                "SR_4_ySize:1": 0,
+                "SR_5_Enabled:1": 0,
+                "SR_5_Invalid:1": 0,
+                "SR_5_dufIO:1": -1,
+                "SR_5_nsweIO:1": -1,
+                "SR_5_xPos:1": 0,
+                "SR_5_xSize:1": 0,
+                "SR_5_yPos:1": 0,
+                "SR_5_ySize:1": 0,
+                "SR_6_dufIO:1": -1,
+                "SR_6_nsweIO:1": -1
+              }
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

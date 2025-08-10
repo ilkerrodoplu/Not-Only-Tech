@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    711
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "immersiveengineering:wirecoil"
+      },
+      "name:8": "MV Wire Coil",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 312,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "immersiveengineering:wirecoil"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

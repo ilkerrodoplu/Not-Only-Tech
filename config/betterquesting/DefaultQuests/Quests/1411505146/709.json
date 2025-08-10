@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    919
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botania:livingwood"
+      },
+      "name:8": "Livingwood"
+    }
+  },
+  "questID:3": 709,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botania:livingwood"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

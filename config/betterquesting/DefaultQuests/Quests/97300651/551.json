@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    752
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 64,
+        "id:8": "stevescarts:cartmodule"
+      },
+      "name:8": "Side Tanks"
+    }
+  },
+  "questID:3": 551,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 64,
+          "id:8": "stevescarts:cartmodule"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

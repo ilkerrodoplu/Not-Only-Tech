@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    2129809581
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 4,
+        "id:8": "botania:manaresource"
+      },
+      "name:8": "Terrasteel Ingot"
+    }
+  },
+  "questID:3": 969595892,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 4,
+          "id:8": "botania:manaresource"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

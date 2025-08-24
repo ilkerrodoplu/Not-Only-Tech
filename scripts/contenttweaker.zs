@@ -138,3 +138,16 @@ train_case.setBlockResistance(2.5);
 train_case.setToolClass("pickaxe");
 train_case.setToolLevel(2);
 train_case.register();
+
+var mill_case = VanillaFactory.createBlock("mill_case", <blockmaterial:iron>);
+mill_case.setBlockHardness(1);
+mill_case.setBlockResistance(2.5);
+mill_case.setToolClass("pickaxe");
+mill_case.setToolLevel(2);
+mill_case.register();
+
+var solar_panel = VanillaFactory.createItem("solar_panel");
+solar_panel.register();
+
+var lunar_panel = VanillaFactory.createItem("lunar_panel");
+lunar_panel.register();

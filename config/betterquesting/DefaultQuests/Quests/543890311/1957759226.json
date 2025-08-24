@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    2022875336,
+    457948509,
+    884106474,
+    1819204252
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "deepmoblearning:living_matter_extraterrestrial"
+      },
+      "name:8": "Extraterrestrial Matter",
+      "questlogic:8": "OR"
+    }
+  },
+  "questID:3": 1957759226,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:living_matter_extraterrestrial"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

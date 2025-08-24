@@ -1,0 +1,37 @@
+{
+  "preRequisites:11": [
+    1077229923,
+    921957151,
+    1090459410,
+    1599878032,
+    852370891,
+    1283861348,
+    2007523741,
+    1667536590,
+    2048624598
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "deepmoblearning:living_matter_overworldian"
+      },
+      "name:8": "Overworldian",
+      "questlogic:8": "OR"
+    }
+  },
+  "questID:3": 294583263,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:living_matter_overworldian"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

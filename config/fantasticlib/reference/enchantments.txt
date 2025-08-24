@@ -40,8 +40,8 @@ openblocks:last_stand
 openblocks:flim_flam
 projectred-expansion:electric_efficiency
 aerialaffinity:aerial_affinity
-endercore:xpboost
 endercore:autosmelt
+endercore:xpboost
 tombstone:shadow_step
 tombstone:soulbound
 tombstone:magic_siphon
@@ -49,11 +49,11 @@ tombstone:plague_bringer
 tombstone:blessing
 tombstone:curse_of_bones
 tombstone:spectral_conjurer
-enderio:repellent
-enderio:soulbound
-enderio:witherarrow
-enderio:witherweapon
 enderio:shimmer
+enderio:witherweapon
+enderio:repellent
+enderio:witherarrow
+enderio:soulbound
 bibliocraft:bibliocraft.deathcompassench
 bibliocraft:bibliocraft.readingench
 divinerpg:rive

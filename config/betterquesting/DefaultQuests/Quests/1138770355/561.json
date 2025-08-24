@@ -7,9 +7,9 @@
       "desc:8": "",
       "icon:10": {
         "Count:3": 1,
-        "id:8": "lootbags:loot_opener"
+        "id:8": "lootbags:itemlootbag"
       },
-      "name:8": "Bag Opener",
+      "name:8": "Loot Bag Things",
       "visibility:8": "ALWAYS"
     }
   },
@@ -21,6 +21,26 @@
         "0:10": {
           "Count:3": 1,
           "id:8": "lootbags:loot_opener"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "lootbags:loot_recycler"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "lootbags:loot_storage"
         }
       },
       "taskID:8": "bq_standard:retrieval"

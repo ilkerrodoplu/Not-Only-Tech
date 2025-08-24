@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    399881986,
+    1049745658,
+    44422016
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "deepmoblearning:living_matter_hellish"
+      },
+      "name:8": "Hellish Matter",
+      "questlogic:8": "OR"
+    }
+  },
+  "questID:3": 1023380969,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:living_matter_hellish"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -10,7 +10,7 @@
         "Count:3": 1,
         "id:8": "mekanism:substrate"
       },
-      "name:8": "Substrate"
+      "name:8": "Substrate \u0026 HDPE Pellet"
     }
   },
   "questID:3": 922,
@@ -21,6 +21,16 @@
         "0:10": {
           "Count:3": 1,
           "id:8": "mekanism:substrate"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "mekanism:polyethene"
         }
       },
       "taskID:8": "bq_standard:retrieval"

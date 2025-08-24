@@ -1,0 +1,38 @@
+{
+  "preRequisites:11": [
+    1492144120
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botania:lexicon",
+        "tag:10": {
+          "knowledge.alfheim:1": 1,
+          "knowledge.minecraft:1": 1,
+          "knowledge.relic:1": 1
+        }
+      },
+      "name:8": "Lexica Botania"
+    }
+  },
+  "questID:3": 597774856,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botania:lexicon",
+          "tag:10": {
+            "knowledge.alfheim:1": 1,
+            "knowledge.minecraft:1": 1,
+            "knowledge.relic:1": 1
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

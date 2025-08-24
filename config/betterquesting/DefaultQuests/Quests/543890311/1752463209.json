@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    911528941,
+    1358272925
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "extendedcrafting:table_elite"
+      },
+      "name:8": "Elite Crafting Table"
+    }
+  },
+  "questID:3": 1752463209,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "extendedcrafting:table_elite"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

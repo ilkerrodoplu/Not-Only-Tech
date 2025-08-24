@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    1957004202
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "bhc:green_heart"
+      },
+      "name:8": "Green Heart",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 38585987,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "bhc:green_heart"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1583821589
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "actuallyadditions:block_inputter_advanced"
+      },
+      "name:8": "Advanced ESD"
+    }
+  },
+  "questID:3": 1804703768,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "actuallyadditions:block_inputter_advanced"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

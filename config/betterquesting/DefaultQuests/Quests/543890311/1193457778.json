@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1918224765
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "deepmoblearning:soot_covered_plate"
+      },
+      "name:8": "Soot Covered Plate"
+    }
+  },
+  "questID:3": 1193457778,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:soot_covered_plate"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

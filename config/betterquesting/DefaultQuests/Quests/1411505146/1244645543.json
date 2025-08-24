@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1774102975
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "actuallyadditions:item_damage_lens"
+      },
+      "name:8": "Lens of Certain Death"
+    }
+  },
+  "questID:3": 1244645543,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "actuallyadditions:item_damage_lens"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

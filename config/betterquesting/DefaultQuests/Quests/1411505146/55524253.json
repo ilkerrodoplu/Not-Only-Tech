@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    568,
+    105
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "actuallyadditions:block_enervator"
+      },
+      "name:8": "Enervator"
+    }
+  },
+  "questID:3": 55524253,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "actuallyadditions:block_enervator"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

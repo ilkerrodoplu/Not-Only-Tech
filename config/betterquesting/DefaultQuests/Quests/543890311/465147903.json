@@ -1,0 +1,40 @@
+{
+  "preRequisites:11": [
+    78351522
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "deepmoblearning:glitch_infused_helmet"
+      },
+      "name:8": "Glitch Infused Armor"
+    }
+  },
+  "questID:3": 465147903,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:glitch_infused_helmet"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:glitch_infused_chestplate"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:glitch_infused_leggings"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:glitch_infused_boots"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

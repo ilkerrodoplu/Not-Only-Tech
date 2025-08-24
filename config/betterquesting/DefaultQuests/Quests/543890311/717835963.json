@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    575173440
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "deepmoblearning:trial_keystone"
+      },
+      "name:8": "Trial Keystone"
+    }
+  },
+  "questID:3": 717835963,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:trial_key"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:trial_keystone"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:glitch_heart"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

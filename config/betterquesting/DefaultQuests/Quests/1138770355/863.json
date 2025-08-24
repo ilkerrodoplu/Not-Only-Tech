@@ -1,6 +1,7 @@
 {
   "preRequisites:11": [
-    867
+    867,
+    250
   ],
   "properties:10": {
     "betterquesting:10": {
@@ -30,6 +31,12 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
+          "ForgeCaps:10": {
+            "Parent:10": {
+              "Filter:9": {},
+              "Inventory:9": {}
+            }
+          },
           "id:8": "simplybackpacks:epicbackpack",
           "tag:10": {
             "filter:10": {

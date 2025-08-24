@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    95,
+    489
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "actuallyadditions:item_phantom_connector"
+      },
+      "name:8": "Phantom Connector"
+    }
+  },
+  "questID:3": 1234756639,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "actuallyadditions:item_phantom_connector"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

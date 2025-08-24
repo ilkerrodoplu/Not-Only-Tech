@@ -1,0 +1,39 @@
+{
+  "preRequisites:11": [
+    621
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "aroma1997sdimension:miningmultitool"
+      },
+      "name:8": "Mining Dimension",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 453872648,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "aroma1997sdimension:miningmultitool"
+        },
+        "1:10": {
+          "Count:3": 10,
+          "id:8": "aroma1997sdimension:portalframe"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "dimension:3": -6,
+      "index:3": 1,
+      "name:8": "Mining Dimension",
+      "taskID:8": "bq_standard:location"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    1113950535
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "actuallyadditions:block_lava_factory_controller"
+      },
+      "name:8": "Lava Factory"
+    }
+  },
+  "questID:3": 562146592,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "actuallyadditions:block_lava_factory_controller"
+        },
+        "1:10": {
+          "Count:3": 4,
+          "Damage:2": 7,
+          "id:8": "actuallyadditions:block_misc"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

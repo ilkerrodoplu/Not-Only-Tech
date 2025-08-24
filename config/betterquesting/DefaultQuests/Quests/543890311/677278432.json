@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    1539850830,
+    1032822485,
+    507646485,
+    105949751
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "deepmoblearning:living_matter_twilight"
+      },
+      "name:8": "Twilight Matter",
+      "questlogic:8": "OR"
+    }
+  },
+  "questID:3": 677278432,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "deepmoblearning:living_matter_twilight"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

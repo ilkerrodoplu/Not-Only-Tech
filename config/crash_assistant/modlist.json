@@ -1427,11 +1427,6 @@
     "modId": "mtlib",
     "version": "3.0.7"
   },
-  "multimob-1.0.5.jar": {
-    "jarName": "multimob-1.0.5.jar",
-    "modId": "multimob",
-    "version": "1.0.4a"
-  },
   "MyServerIsCompatible-1.12.2-1.0.jar": {
     "jarName": "MyServerIsCompatible-1.12.2-1.0.jar",
     "modId": "msic",
@@ -1684,11 +1679,6 @@
     "jarName": "PrimalChests-1.0.3.jar",
     "modId": "primalchests",
     "version": "1.0.3"
-  },
-  "primitivemobs-1.2.3a.jar": {
-    "jarName": "primitivemobs-1.2.3a.jar",
-    "modId": "primitivemobs",
-    "version": "1.2.3a"
   },
   "ProgressiveBosses-1.5.4-mc1.12.x.jar": {
     "jarName": "ProgressiveBosses-1.5.4-mc1.12.x.jar",
@@ -1992,11 +1982,6 @@
     "modId": "spartanweaponryarcanaex",
     "version": "1.12.2-1.0.0"
   },
-  "specialmobs-1.0.4_for_mc1.12.2.jar": {
-    "jarName": "specialmobs-1.0.4_for_mc1.12.2.jar",
-    "modId": "specialmobs",
-    "version": "1.0.4_for_mc1.12.2"
-  },
   "speedyhoppers-1.1.19.jar": {
     "jarName": "speedyhoppers-1.1.19.jar",
     "modId": "speedyhoppers",
@@ -2296,11 +2281,6 @@
     "jarName": "villager-market-nbt-fix-1.12.2-1.0.4.jar",
     "modId": "villagermarket",
     "version": "1.12.2-1.0.4"
-  },
-  "villagercontracts-1.12.2-1.2.1.jar": {
-    "jarName": "villagercontracts-1.12.2-1.2.1.jar",
-    "modId": "villagercontracts",
-    "version": "1.12.2-1.2.1"
   },
   "VillagerTrades-1.12.2-0.6.5.jar": {
     "jarName": "VillagerTrades-1.12.2-0.6.5.jar",
